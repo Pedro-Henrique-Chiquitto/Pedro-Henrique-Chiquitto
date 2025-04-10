@@ -13,10 +13,9 @@
 - 🔭 Eu estou trabalhando atualmente alimentando os dados de um sistema administrativo
 - 🌱 Estudando com bolsa na Univesp em TI com conclusão em 2026 e no programa Oracle Next Education o desenvolvimento Back End
 
-<div >
+<div align="left" >
   
-  <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-   <img align="right" src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
+  <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />   
  </div>
  
 <div> 
@@ -26,7 +25,7 @@
 </div>
 
 <div style="display: inline_block"><br>
- 
+ <img align="center" src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="200" >
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
