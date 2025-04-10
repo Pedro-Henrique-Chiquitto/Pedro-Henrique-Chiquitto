@@ -1,32 +1,45 @@
-## Olá, eu sou o Pedro Chiquitto !
-(Java | Spring Boot | Docker | Javascript | HTML | CSS ) 🚀
+## 👋 Olá, eu sou o Pedro Chiquitto!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chiquitto/)](https://www.linkedin.com/in/pedro-chiquitto/)
-<!-- [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=   )](     )  -->
-[![Gmail Badge](https://img.shields.io/badge/-pedro.h.chiquitto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.chiquitto@gmail.com)](mailto:pedro.h.chiquitto@gmail.com)
+### Desenvolvedor Back-End apaixonado por tecnologia e aprendizado contínuo 🚀
 
+🌐 **Tecnologias:** Java | Spring Boot | Docker | JavaScript | HTML | CSS  
+🎓 **Formação:** Cursando Tecnologia da Informação na Univesp (conclusão em 2026)  
+📘 **Programa:** Oracle Next Education - Trilha Back-End  
+🏫 **Atuação atual:** Alimentando dados em um sistema administrativo escolar  
+🏆 **Certificação:** Java Foundations – Oracle
 
+---
 
-- 👩‍💻 Desenvolvendo o projeto em uma escola
-- 🏆 Java Foundations Oracle
-- 🎓 Cursando Tecnologia da Informação na Unives
-- 🔭 Eu estou trabalhando atualmente alimentando os dados de um sistema administrativo
-- 🌱 Estudando com bolsa na Univesp em TI com conclusão em 2026 e no programa Oracle Next Education o desenvolvimento Back End
+### 📬 Entre em contato comigo:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chiquitto/)](https://www.linkedin.com/in/pedro-chiquitto/)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.h.chiquitto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.chiquitto@gmail.com)](mailto:pedro.h.chiquitto@gmail.com)
 
- 
-<div> 
-  <a href = "mailto:pedro.h.chiquitto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-chiquitto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
- <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />   
- <img align="center" src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
-  
-  
- </div>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div style="display: flex; flex-direction: row;">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img align="center" src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
+</div>
+
+---
+
+### 🐍 Contribuições
 
 <div style="background-color: #0d1117; padding: 10px;">
 <picture>
@@ -34,6 +47,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Henrique-Chiquitto/Pedro-Henrique-Chiquitto/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-Henrique-Chiquitto/Pedro-Henrique-Chiquitto/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
-
