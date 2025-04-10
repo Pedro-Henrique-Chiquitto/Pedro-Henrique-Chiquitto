@@ -34,8 +34,16 @@
 
 <div style="display: flex; flex-direction: row;">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-  <img align="center" src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
 </div>
+
+---
+
+
+### 🏅 Certificação
+
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
+</p>
 
 ---
 
