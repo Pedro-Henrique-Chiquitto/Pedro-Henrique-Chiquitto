@@ -13,10 +13,7 @@
 - 🔭 Eu estou trabalhando atualmente alimentando os dados de um sistema administrativo
 - 🌱 Estudando com bolsa na Univesp em TI com conclusão em 2026 e no programa Oracle Next Education o desenvolvimento Back End
 
-<div align="left" >
-  
-  <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />   
- </div>
+
  
 <div> 
   <a href = "mailto:pedro.h.chiquitto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -34,7 +31,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-
+<div align="left" >
+  
+  <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />   
+ </div>
 
 <div style="background-color: #0d1117; padding: 10px;">
 <picture>
