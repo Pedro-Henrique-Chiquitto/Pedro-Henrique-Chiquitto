@@ -1,6 +1,10 @@
 ## 👋 Olá, eu sou o Pedro Chiquitto!
 
-### Desenvolvedor Back-End apaixonado por tecnologia e aprendizado contínuo 🚀
+### 💻 Desenvolvedor Back-End apaixonado por tecnologia e aprendizado contínuo 🚀
+
+Atualmente atuo em um projeto escolar, alimentando dados em um sistema administrativo. Sou estudante de Tecnologia da Informação na Univesp (conclusão em 2026) e bolsista no programa **Oracle Next Education**, focado em desenvolvimento Back-End.
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -13,40 +17,28 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-🎓 **Formação:** Cursando Tecnologia da Informação na Univesp (conclusão em 2026)  
-📘 **Programa:** Oracle Next Education - Trilha Back-End  
-🏫 **Atuação atual:** Alimentando dados em um sistema administrativo escolar  
-🏆 **Certificação:** Java Foundations – Oracle
+---
+
+### 📜 Certificação
+
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
+</p>
 
 ---
 
-### 📬 Entre em contato comigo:
+### 📬 Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chiquitto/)](https://www.linkedin.com/in/pedro-chiquitto/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.h.chiquitto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.chiquitto@gmail.com)](mailto:pedro.h.chiquitto@gmail.com)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-
-
----
-
 ### 📊 Estatísticas do GitHub
 
-<div style="display: flex; flex-direction: row;">
+<div align="center">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 </div>
-
----
-
-
-### 🏅 Certificação
-
-<p align="center">
-  <img src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
-</p>
 
 ---
 
