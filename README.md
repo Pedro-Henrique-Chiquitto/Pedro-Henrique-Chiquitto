@@ -2,7 +2,7 @@
 (Java | Spring Boot | Docker | Javascript | HTML | CSS ) 🚀
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="	https://img.shields.io/badge/https%3A%2F%2Fimages.credly.com%2Fsize%2F340x340%2Fimages%2Faeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2%2F02a_Java_Foundations_Associate.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="	https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
