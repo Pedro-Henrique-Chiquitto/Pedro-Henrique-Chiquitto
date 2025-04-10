@@ -1,18 +1,6 @@
 ## Olá, eu sou o Pedro Chiquitto !
 (Java | Spring Boot | Docker | Javascript | HTML | CSS ) 🚀
 
-<div style="display: inline_block"><br>
-  <img src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="100" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-<h1>Olá 👋</h1>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chiquitto/)](https://www.linkedin.com/in/pedro-chiquitto/)
 <!-- [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=   )](     )  -->
 [![Gmail Badge](https://img.shields.io/badge/-pedro.h.chiquitto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.chiquitto@gmail.com)](mailto:pedro.h.chiquitto@gmail.com)
