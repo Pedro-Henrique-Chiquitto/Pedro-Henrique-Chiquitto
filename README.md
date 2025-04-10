@@ -13,7 +13,7 @@
 - 🔭 Eu estou trabalhando atualmente alimentando os dados de um sistema administrativo
 - 🌱 Estudando com bolsa na Univesp em TI com conclusão em 2026 e no programa Oracle Next Education o desenvolvimento Back End
 
-<div align="center">
+<div >
   
   <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Chiquitto&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
    <img align="right" src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
