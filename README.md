@@ -3,10 +3,10 @@
 ### 💻 Desenvolvedor Back-End apaixonado por tecnologia e aprendizado contínuo 🚀
 
 Atualmente atuo em um projeto escolar, alimentando dados em um sistema administrativo. Sou estudante de Tecnologia da Informação na Univesp (conclusão em 2026) e bolsista no programa **Oracle Next Education**, focado em desenvolvimento Back-End.
-<div style="display: inline_block">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chiquitto/)](https://www.linkedin.com/in/pedro-chiquitto/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.h.chiquitto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.chiquitto@gmail.com)](mailto:pedro.h.chiquitto@gmail.com)
-</div>
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
