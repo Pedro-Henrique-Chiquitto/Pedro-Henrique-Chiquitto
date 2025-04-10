@@ -3,6 +3,8 @@
 ### 💻 Desenvolvedor Back-End apaixonado por tecnologia e aprendizado contínuo 🚀
 
 Atualmente atuo em um projeto escolar, alimentando dados em um sistema administrativo. Sou estudante de Tecnologia da Informação na Univesp (conclusão em 2026) e bolsista no programa **Oracle Next Education**, focado em desenvolvimento Back-End.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chiquitto/)](https://www.linkedin.com/in/pedro-chiquitto/)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.h.chiquitto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.chiquitto@gmail.com)](mailto:pedro.h.chiquitto@gmail.com)
 
 ---
 
@@ -25,12 +27,6 @@ Atualmente atuo em um projeto escolar, alimentando dados em um sistema administr
   <img src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
 </p>
 
----
-
-### 📬 Contato
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chiquitto/)](https://www.linkedin.com/in/pedro-chiquitto/)
-[![Gmail Badge](https://img.shields.io/badge/-pedro.h.chiquitto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.chiquitto@gmail.com)](mailto:pedro.h.chiquitto@gmail.com)
 
 ---
 
