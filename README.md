@@ -26,7 +26,7 @@ Atualmente atuo em um projeto escolar, alimentando dados em um sistema administr
 
 <p align="center">
   <img src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
-  <img src="https://quanwenzhao.wordpress.com/wp-content/uploads/2021/05/oracle_cloud_infrastructure_foundations_associate.png?w=340" alt="Certificado Foundations Associate Oracle Badge 2025e" width="200" />
+  <img src="https://education.oracle.com/raise-your-game-saas" alt="Certificado Foundations Associate Oracle Badge 2025e" width="200" />
   
 </p>
 
