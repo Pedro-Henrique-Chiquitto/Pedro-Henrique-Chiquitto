@@ -26,7 +26,7 @@ Atualmente atuo em um projeto escolar, alimentando dados em um sistema administr
 
 <p align="center">
   <img src="https://images.credly.com/size/340x340/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png" alt="Certificado Java Foundations Associate" width="200" />
-  <img src="https://education.oracle.com/file/general/Oracle_Foundations_Associate_Badge.png" alt="Certificado Foundations Associate Oracle Badge 2025" width="200" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGfvHEjFCe4MA/profile-treasury-image-shrink_8192_8192/B4DZYxAHBPGkAg-/0/1744578834921?e=1745186400&v=beta&t=CmmlzgTKgApmkedgU0EwufsiXzl47bsi2cHJCJhqeaI" alt="Certificado Foundations Associate Oracle Badge 2025" width="200" />
   
 </p>
 
